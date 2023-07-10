@@ -30,7 +30,7 @@ def Dijkstra(graph, start, end):
 
     # reconstruct the shortest path
     path = []
-    node = end
+    node = end 
     while node is not None:
         path.append(node)
         node = previous_nodes[node]
