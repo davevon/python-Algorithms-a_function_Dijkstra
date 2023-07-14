@@ -1,3 +1,7 @@
+#please install- "python3 -m pip install networkx"
+#please install-"python3 -m pip install --upgrade pip"
+#please install- "python3 -m pip install matplotlib"
+
 import heapq
 import networkx as nx
 import matplotlib.pyplot as plt
